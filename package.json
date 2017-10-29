@@ -1,0 +1,31 @@
+{
+  "name": "macos-space-change",
+  "version": "1.0.0",
+  "description": "Setup a callback for macOS space change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom-james-watson/macos-space-change.git"
+  },
+  "keywords": [
+    "macOS",
+    "OSX",
+    "space",
+    "workspace",
+    "change",
+    "monitor",
+    "switch"
+  ],
+  "author": "Tom Watson <tom@tomjwatson.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tom-james-watson/macos-space-change/issues"
+  },
+  "homepage": "https://github.com/tom-james-watson/macos-space-change#readme",
+  "dependencies": {
+    "nodobjc": "^2.1.0"
+  }
+}
