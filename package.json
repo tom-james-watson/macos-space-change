@@ -1,6 +1,6 @@
 {
   "name": "macos-space-change",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Setup a callback for macOS space change",
   "main": "index.js",
   "scripts": {
